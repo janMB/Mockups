@@ -1,0 +1,118 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="842" measuredH="687" mockupW="842" mockupH="687">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="842" h="687" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dare%20to%20be%20Different%0Ahttp%3A//www.home.nith.no/%7Etanseb12/DD/index.html%20%28...%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="20" y="89" w="-1" h="-1" measuredW="191" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Dare%20to%20be%20Digital</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="819" y="71" w="-1" h="586" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VSplitter" x="0" y="178" w="819" h="-1" measuredW="100" measuredH="11" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::ButtonBar" x="20" y="147" w="497" h="27" measuredW="351" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Competition%2C%20Awards%2C%20About%2C%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="__group__" x="19" y="197" w="494" h="303" measuredW="494" measuredH="303" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="494" h="303" measuredW="494" measuredH="303" zOrder="0" locked="false" isInGroup="49">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="494" h="303" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>14540253</color>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="11" y="18" w="184" h="35" measuredW="100" measuredH="126" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <bold>true</bold>
+                <size>13</size>
+                <text>Edit%20profile</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="11" y="60" w="184" h="-1" measuredW="105" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>1</backgroundAlpha>
+                <color>16777215</color>
+                <italic>true</italic>
+                <text>Experienced%20in%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="11" y="201" w="184" h="-1" measuredW="70" measuredH="27" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <italic>true</italic>
+                <text>Password</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="11" y="261" w="184" h="-1" measuredW="44" measuredH="27" zOrder="4" locked="false" isInGroup="0">
+              <controlProperties>
+                <bold>true</bold>
+                <color>16777215</color>
+                <italic>false</italic>
+                <text>Save</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="11" y="95" w="137" h="-1" measuredW="111" measuredH="24" zOrder="5" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Qualifications</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="151" y="94" w="-1" h="-1" measuredW="46" measuredH="27" zOrder="6" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>1</backgroundAlpha>
+                <bold>true</bold>
+                <color>16777215</color>
+                <italic>false</italic>
+                <text>+Add</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="11" y="125" w="-1" h="-1" measuredW="92" measuredH="22" zOrder="7" locked="false" isInGroup="0">
+              <controlProperties>
+                <state>selected</state>
+                <text>3D%20Graphics</text>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="11" y="147" w="-1" h="-1" measuredW="128" measuredH="22" zOrder="8" locked="false" isInGroup="0">
+              <controlProperties>
+                <state>selected</state>
+                <text>Java%20programming</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="11" y="228" w="184" h="-1" measuredW="118" measuredH="27" zOrder="9" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <italic>true</italic>
+                <text>Retype%20password</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="578" y="147" w="63" h="27" measuredW="63" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Button" x="647" y="147" w="166" h="27" measuredW="135" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <state>up</state>
+        <text>Team%20Stellar%20Games</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Button" x="647" y="117" w="-1" h="-1" measuredW="166" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Logged%20in%20as%20Eivind%20Brevik</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
